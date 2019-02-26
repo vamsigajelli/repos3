@@ -1,3 +1,4 @@
-# repos3
-this is a new repos
-files ll be created under this repos.
+my name is vamsi
+my middle name is krishna
+this is just a drill.
+trying to learn GIT.
