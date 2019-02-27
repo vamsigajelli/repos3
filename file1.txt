@@ -1,2 +1,8 @@
 this is a second file created under dev.
-edited from remote repo.
+edited from remote repo
+
+this is the third line.
+1
+2
+3
+4
